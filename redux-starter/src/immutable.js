@@ -1,0 +1,1 @@
+const book = {title: 'Hello'}
